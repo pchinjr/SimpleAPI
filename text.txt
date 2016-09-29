@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-here’s some more stuff
-=======
-here’s some new text 
->>>>>>> ce3830c7556bd81bdc553b1a036c3cf1676b7e1e
+all new text from third thing
